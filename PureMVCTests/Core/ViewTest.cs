@@ -1,4 +1,4 @@
-﻿//
+﻿// add GitHub
 //  PureMVC C# Multicore
 //
 //  Copyright(c) 2017 Saad Shams <saad.shams@puremvc.org>
